@@ -1,0 +1,7 @@
+{
+  "name": "localizador-ip",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
